@@ -150,5 +150,7 @@ The condition of the cause ("are configured accordingly") allows some variance, 
 &#9989;/&#10060; (state whether the LLM produces the expected output)
 
 ```text
-(enter your solution here)
+| ID | the notifications settings | App sends notification |
+Enabled | 	Sends notification
+Disabled | Does not send notification
 ```
